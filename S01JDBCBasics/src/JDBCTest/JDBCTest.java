@@ -27,7 +27,7 @@ public class JDBCTest {
 	}
 	
 	private static void insertIntoDB() {
-		try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/mydb", "root", "admin");
+		try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/mydb", "root", "apple@18092000");
 				Statement statement = connection.createStatement();) {
 
 			int rowsInserted = statement.executeUpdate("insert into account values(3, 'Mary', 'Lucy', 150000)");
@@ -38,7 +38,7 @@ public class JDBCTest {
 	}
 
 	private static void readFromDB() {
-		try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/mydb", "root", "admin");
+		try (Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/mydb", "root", "apple@18092000");
 				Statement statement = connection.createStatement();) {
 
 			ResultSet resultSet = statement.executeQuery("select * from account");
