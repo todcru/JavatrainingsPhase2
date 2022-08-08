@@ -1,0 +1,17 @@
+-------------------------------------Price:500-------------------------------------
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+-------------------------------------Price:400-------------------------------------
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXX----XXXXXXXX
+XXXXXXXX----XXXXXXXX
+XXXXXXXX----XXXXXXXX
+XXXXXXXX----XXXXXXXX
+-------------------------------------Price:300-------------------------------------
+XXXXXXXXX--XXXXXXXXX
+XXXXXXXXX--XXXXXXXXX
+XXXXXXXXX--XXXXXXXXX
+-------------------------------------Price:100-------------------------------------
+XXXXXXXXX--XXXXXXXXX
+XXXXXXXXX--XXXXXXXXX
